@@ -1,1 +1,1 @@
-console.log("inside script.js");
+// console.log("inside script.js");
