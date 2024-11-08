@@ -1,0 +1,1 @@
+/*This file will handle reading and writing to local storage.*/
