@@ -42,14 +42,13 @@ function createAppointment(owner, pet, service, dayAndTime){
 // ));
 
 
-// console.log("appointments: " + JSON.stringify(apptArray));
-// console.log("------------------------------------------");
-
 // for(let i = 0; i < apptArray.length; i++){
 //     console.log("appointment " + (i + 1) + ": \n" + "owner:" +  JSON.stringify(apptArray[i].owner) + '\n pet: ' + JSON.stringify(apptArray[i].pet)
 //     + " \n service: " + JSON.stringify(apptArray[i].service) + " \n date and time: " + JSON.stringify(apptArray[i].dayAndTime));
 //     console.log("------------------------------------------");
 // }
+
+
 
 
 
