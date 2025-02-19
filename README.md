@@ -53,7 +53,7 @@ This will launch the command-line interface, where you will be presented with a 
 - PostgreSQL: A relational database to store and manage department, role, and employee data.
 - dotenv: Used for environment variable management to secure sensitive information like database credentials.
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request
 
 ## License
@@ -61,4 +61,7 @@ This project is licensed under the MIT License.
 
 ## Contact Information
 If you have any questions or feedback, please contact me at ashpelzer@aol.com 
+
+## Application Demo
+[employee tracker.webm](https://github.com/user-attachments/assets/b9b22d0c-0143-4bad-96a5-38935afbe15b)
 
